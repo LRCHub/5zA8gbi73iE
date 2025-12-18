@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "二人だけの秘密",
+  "base_artist": "純烈",
+  "createdAt": "2025-12-18T12:05:40.188751Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二人だけの秘密",
+      "artist": "純烈",
+      "has_synced": false,
+      "path": "select/pl_01_二人だけの秘密_純烈.txt"
+    }
+  ]
+}
